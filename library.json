@@ -1,0 +1,15 @@
+{
+  "name": "TCS34725_Color_Sensor",
+  "title" : "TCS34725_Color_Sensor",
+  "keywords": "TCS34725_Color_Sensor, Color , color,tcs",
+  "description": "This is a color sensor module based on TCS34725, will output RGB data and light intensity through the I2C interface.",
+  "category":"Device Control",
+  "license": "Adadruit",
+  "git": "",
+  "author": "original by Adadruit | blocks by PrinceBot",
+  "email": "Print081@gmail.com",
+  "url": "",
+  "version": "0.0.0",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/display.jpg"
+}
