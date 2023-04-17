@@ -9,7 +9,7 @@
   "author": "original by Adadruit | blocks by PrinceBot",
   "email": "Print081@gmail.com",
   "url": "https://github.com/PrinceBot-Ratthanin/TCS34725_Color_Sensor/",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "platform": ["arduino-esp32"],
   "image" : "/static/display.jpg"
 }
